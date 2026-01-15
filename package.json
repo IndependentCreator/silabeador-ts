@@ -1,5 +1,5 @@
 {
-  "name": "silabeador",
+  "name": "silabeador-ts",
   "version": "1.0.0",
   "description": "Spanish syllabification and prosodic stress detection library, ported to typescript from https://github.com/fsanzl/silabeador",
   "type": "module",
