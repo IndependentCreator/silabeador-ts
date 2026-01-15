@@ -1,7 +1,7 @@
 {
   "name": "silabeador",
-  "version": "2.0.0",
-  "description": "Spanish syllabification and prosodic stress detection library",
+  "version": "1.0.0",
+  "description": "Spanish syllabification and prosodic stress detection library, ported to typescript from https://github.com/fsanzl/silabeador",
   "type": "module",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
@@ -31,8 +31,16 @@
     "nlp",
     "linguistics"
   ],
-  "author": "",
+  "author": "independentcreator@protonmail.com",
   "license": "LGPL-2.1+",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IndependentCreator/silabeador-ts.git"
+  },
+  "homepage": "https://github.com/IndependentCreator/silabeador-ts#readme",
+  "bugs": {
+    "url": "https://github.com/IndependentCreator/silabeador-ts/issues"
+  },
   "devDependencies": {
     "@types/node": "^20.10.0",
     "@vitest/ui": "^1.0.0",
